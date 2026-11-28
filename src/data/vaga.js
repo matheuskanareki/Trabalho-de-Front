@@ -1,7 +1,7 @@
 const vagalist = [
   {
     id: 1,
-    empresa: "Tec Solutions",
+    empresa: "VirtuTechgit p",
     cargo: "Front-end Developer",
     salario: "R$ 5.000,00 - R$ 7.000,00",
     modelo: "Remoto",
@@ -23,7 +23,7 @@ const vagalist = [
   },
   {
     id: 3,
-    empresa: "Sky net",
+    empresa: "Tech Solutions",
     cargo: "Estagiário de Engenharia de Software",
     salario: "R$ 2.100,00 - R$ 3.000,00",
     modelo: "Híbrido",
@@ -34,8 +34,8 @@ const vagalist = [
   },
   {
     id: 4,
-    empresa: "Nubank Lab",
-    cargo: "Product Designer Jr",
+    empresa: "Creative Minds",
+    cargo: "Designer Gráfico",
     salario: "R$ 3.500,00",
     modelo: "Remoto",
     area: "Design",
